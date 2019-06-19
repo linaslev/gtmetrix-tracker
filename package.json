@@ -1,0 +1,16 @@
+{
+  "name": "gtmetrix-tracker",
+  "version": "1.0.0",
+  "description": "Gathers GTMetrix data for URLs and puts it to Google Sheets document",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "google-spreadsheet": "^2.0.7",
+    "gtmetrix": "^1.3.0"
+  }
+}
