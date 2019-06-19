@@ -1,0 +1,3 @@
+deployment:
+  tasks:
+    - /opt/cpanel/ea-nodejs10/bin/npm install
