@@ -78,21 +78,5 @@
     {
         "url": "https://www.hostinger.com/forgot-password",
         "sheetNumber": 20
-    },
-    {
-        "url": "https://www.hostinger.com/buy-domain",
-        "sheetNumber": 21
-    },
-    {
-        "url": "https://www.hostinger.com/transfer-domain",
-        "sheetNumber": 22
-    },
-    {
-        "url": "https://www.hostinger.com/contacts",
-        "sheetNumber": 23
-    },
-    {
-        "url": "https://www.hostinger.com/buy-cheap-ssl-certificate",
-        "sheetNumber": 24
     }
 ]
