@@ -1,18 +1,98 @@
 [
-  {
-    "url": "https://www.hostinger.com",
-    "sheetNumber": 1
-  },
-  {
-    "url": "https://www.hostinger.com/web-hosting",
-    "sheetNumber": 2
-  },
-  {
-    "url": "https://www.hostinger.com/cloud-hosting",
-    "sheetNumber": 3
-  },
-  {
-    "url": "https://www.hostinger.com/cart/add/hosting-hostinger-starter",
-    "sheetNumber": 4
-  }
+    {
+        "url": "https://www.hostinger.com/",
+        "sheetNumber": 1
+    },
+    {
+        "url": "https://www.hostinger.com/cpanel-login",
+        "sheetNumber": 2
+    },
+    {
+        "url": "https://www.hostinger.com/domain-checker",
+        "sheetNumber": 3
+    },
+    {
+        "url": "https://www.hostinger.com/web-hosting",
+        "sheetNumber": 4
+    },
+    {
+        "url": "https://www.hostinger.com/free-hosting",
+        "sheetNumber": 5
+    },
+    {
+        "url": "https://www.hostinger.com/vps-hosting",
+        "sheetNumber": 6
+    },
+    {
+        "url": "https://www.hostinger.com/free-domain",
+        "sheetNumber": 7
+    },
+    {
+        "url": "https://www.hostinger.com/pricing",
+        "sheetNumber": 8
+    },
+    {
+        "url": "https://www.hostinger.com/career",
+        "sheetNumber": 9
+    },
+    {
+        "url": "https://www.hostinger.com/wordpress-hosting",
+        "sheetNumber": 10
+    },
+    {
+        "url": "https://www.hostinger.com/website-builder",
+        "sheetNumber": 11
+    },
+    {
+        "url": "https://www.hostinger.com/special/000webhost",
+        "sheetNumber": 12
+    },
+    {
+        "url": "https://www.hostinger.com/whois",
+        "sheetNumber": 13
+    },
+    {
+        "url": "https://www.hostinger.com/minecraft-server-hosting",
+        "sheetNumber": 14
+    },
+    {
+        "url": "https://www.hostinger.com/cheap-web-hosting",
+        "sheetNumber": 15
+    },
+    {
+        "url": "https://www.hostinger.com/cloud-hosting",
+        "sheetNumber": 16
+    },
+    {
+        "url": "https://www.hostinger.com/online-store",
+        "sheetNumber": 17
+    },
+    {
+        "url": "https://www.hostinger.com/email-hosting",
+        "sheetNumber": 18
+    },
+    {
+        "url": "https://www.hostinger.com/affiliates",
+        "sheetNumber": 19
+    },
+    {
+        "url": "https://www.hostinger.com/forgot-password",
+        "sheetNumber": 20
+    },
+    {
+        "url": "https://www.hostinger.com/buy-domain",
+        "sheetNumber": 21
+    },
+    {
+        "url": "https://www.hostinger.com/transfer-domain",
+        "sheetNumber": 22
+    },
+    {
+        "url": "https://www.hostinger.com/contacts",
+        "sheetNumber": 23
+    },
+    {
+        "url": "https://www.hostinger.com/buy-cheap-ssl-certificate",
+        "sheetNumber": 24
+    }
 ]
